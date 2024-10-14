@@ -33,6 +33,12 @@ const handleClick = (e) => {
         case "purple":
             body.style.backgroundColor = "#d8b4fe"
             break
+        case "green":
+            body.style.backgroundColor = "#86efac"
+            break
+        case "orange":
+            body.style.backgroundColor = "#fdba74"
+            break
     }
 }
 

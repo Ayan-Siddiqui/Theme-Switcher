@@ -7,14 +7,19 @@ body{
     display: flex;
     justify-content: center;
     
+    
 }
 #headline-container{
     margin-top: 50px;
+    
 }
 #headline{
     margin-bottom: 50px;
     font-size: 40px;
     color: #9c27b0;
+    display: flex;
+    justify-content: center;
+    
 }
 .button{
     padding-left: 32px;
@@ -55,4 +60,10 @@ body{
 }
 #purple{
     background-color: #d8b4fe;
+}
+#green{
+    background-color: #86efac;
+}
+#orange{
+    background-color: #fdba74;
 }
